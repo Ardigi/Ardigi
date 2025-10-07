@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Dean Garcia 👋
 
-<!--
-**Ardigi/Ardigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Architect & Full-Stack Engineer** building enterprise systems with exceptional code quality.
 
-Here are some ideas to get you started:
+## 🎯 Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🏢 Overmatch Digital** - Architecting SOC 2 compliance platform  
+11 microservices | NestJS | Kafka | Kong Konnect | PostgreSQL  
+[View Code →](https://github.com/Ardigi/Overmatch-Digital)
+
+**🍽️ HOST** - Enterprise Point-of-Sale system  
+701 tests | 99.93% coverage | SvelteKit | tRPC | Turso  
+[View Code →](https://github.com/Ardigi/HOST)
+
+## 💻 Tech Stack
+
+**Languages:** TypeScript, JavaScript, Python  
+**Frontend:** React, Svelte 5, Next.js, Tailwind CSS  
+**Backend:** NestJS, Node.js, tRPC, Express  
+**Databases:** PostgreSQL, MongoDB, Redis, Elasticsearch, Turso  
+**Infrastructure:** Docker, Kafka, Kong, Keycloak, Turborepo  
+**Testing:** Vitest, Playwright, Jest, TDD methodology  
+
+## 📊 GitHub Stats
+
+- 🧪 701 tests written (99.93% coverage)
+- 🏗️ 2 enterprise platforms architected
+- 📦 11 microservices deployed
+- ♿ WCAG 2.1 AA compliant UIs
+
+## 📫 Let's Connect
+
+- 📧 Email: dean@ardigi.io
+- 📱 Phone: (832) 797-4693
+- 🌐 Portfolio: ardigi.io
+- 📍 Location: San Antonio, TX (Remote)
+
+---
+
+*Currently open to remote full-stack engineering opportunities*
